@@ -1,0 +1,52 @@
+body {
+  background-color: white;
+}
+#hero-image {
+  background-image: url("https://fanart.tv/fanart/movies/16248/moviebackground/daryl-568278c342d96.jpg");
+  background-repeat: no-repeat; 
+	background-size: cover;
+	background-attachment: scroll;
+	background-position: center;
+}
+.jumbotron h1 {
+  font-size: 150px;
+  color: white;
+  text-shadow: 4px 4px #B20909;
+}
+.jumbotron p {
+  font-size: 95px;
+  color: #FFF;
+  text-shadow: 3px 3px #B20909;
+  text-align: left;
+}
+#title-overview a {
+  font-size: 60px;
+  text-decoration: none;
+  color: black;
+}
+#overview-text {
+  text-align: left;
+  font-size: 20px;
+  margin-bottom: 60px;
+}
+#title-cast a {
+  font-size: 60px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+#cast-list th {
+  font-size: 20px;
+}
+#cast-list td {
+  font-size: 17px;
+}
+#image-table img {
+  width: 300px;
+  height: 150px;
+}
+.footer-copyright {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 15px;
+}
